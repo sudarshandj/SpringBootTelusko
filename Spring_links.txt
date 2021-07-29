@@ -1,0 +1,21 @@
+Key Skills: 
+• Should have minimum 10+ years’ solid experience in Java
+• Strong experience in Junit , Spring Framework , Spring Security, Spring Boot, JPA application development experience
+• Implement JEE Web application(s) using Java, JDBC, JSP, Servlets, EJB, CSS, Java Web Services, Java Design Patterns, HPDPlus, DSML, JSF, Hibernate, Spring       Framework, Struts, MVC, UML modeling, OOAD, XML, XSLT, DOM and SAX Parser, AJAX, JavaScript, HTML, DHTML, CSS, ANT, Log4J, Oracle RDBS. 
+• 3+ years of strong Frameworks: Spring Boot, ReactJS, Zuul, Hystrix, Eureka, Config Server, Ribbon, Cloud Contract, Cloud Stream, Sleuth
+• 3+ years of strong experience in CI/CD: Bamboo, CARA, Bitbucket
+• 5+ years of solid experience  in Azure/AWS/GCP/PCF, OpenShift/Kubernetes
+• Good knowledge of CheckMarx, SonarQube, AppSpider, JaCoCo
+• Good knowledge on security OAuth 2.0, JWT, Spring Security, PING Access/Federate (Resource Server), 2-Way SSL
+• Strong Backend experience on REST API implementation
+• Perform code review and develop unit test cases using JUnit
+• Deploy and administer components using the Application Server (Jboss AS, WebLogic, Tomcat Apache, Radiant Virtual Directory server, etc).
+• Manage auto build processes using Eclipse, Maven, SVN, etc.
+• Conduct load test and tune the performance of the application
+• Experience working in Docker containerization tool and creating images
+• Good understanding and technical expertise in Microservices architectures
+• Experience in enterprise architecture frameworks like Togaf, Zachman is desirable. Certification in Togaf and Zachman will be added advantage
+• Interact and co-coordinate with the technical teams both onsite and offshore
+• Ability to understand current production problems when issues are raised and be able to analyze and effectively provide solutions.
+
+https://fidel.ie/2017/03/11/spring-hot-swapping-intellij-gradle.html
